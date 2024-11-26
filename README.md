@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Zach/Ela (@TechnicalOtter)
+# 👋 Hi, I’m Ela (@TechnicalOtter)
 
 I make code. And history.
 
