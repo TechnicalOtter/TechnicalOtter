@@ -7,3 +7,6 @@ You can find various random open source projects I have made here. People deserv
 
 ## Website
 Head over to [website](https://technicalotter.github.io) for more. The [blog](https://technicalotter.github.io/blog) is where the really good stuff is.
+
+## Name
+Due to GitHub's Education Verification, I'm stuck doing what I have done for my name on here. Please see [this page on my website](https://technicalotter.github.io/name.html) for more information.
